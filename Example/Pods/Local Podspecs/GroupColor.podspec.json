@@ -1,0 +1,22 @@
+{
+  "name": "GroupColor",
+  "version": "0.1.0",
+  "summary": "A short description of GroupColor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/黄/GroupColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "黄": "huangzhenwei-wx@bestpay.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/黄/GroupColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GroupColor/Classes/**/*"
+}

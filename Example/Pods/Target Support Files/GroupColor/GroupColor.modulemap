@@ -1,0 +1,6 @@
+framework module GroupColor {
+  umbrella header "GroupColor-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - GroupColor (0.1.0)
+
+DEPENDENCIES:
+  - GroupColor (from `../`)
+
+EXTERNAL SOURCES:
+  GroupColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GroupColor: 7c6e25a21949d8b3dff407e2aa47d6607f050500
+
+PODFILE CHECKSUM: 328abf46b871090283f87a0e4263fb9231432281
+
+COCOAPODS: 1.10.0
