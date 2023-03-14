@@ -9,7 +9,7 @@
 
 
 @implementation GroupColor
-+(UIColor *)colorWithInt:(int)num{
++(UIColor *)colorWithInt:(int)num{ 
     switch (num) {
         case 1:
             return [UIColor redColor];
